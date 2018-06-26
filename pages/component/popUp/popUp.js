@@ -11,6 +11,10 @@ Component({
       value: false,
       type: Boolean
     },
+    isShowFooter:{
+      value: true,
+      type: Boolean
+    },
     isShowShadow:{
       value:true,
       type:Boolean
